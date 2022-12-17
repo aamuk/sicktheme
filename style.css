@@ -1,0 +1,13 @@
+/*
+Theme Name: Sick Theme
+Author: Dave
+*/
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.nav-bar {
+    display: flex;
+    background-color: pink;
+}
